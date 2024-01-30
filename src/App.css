@@ -1,0 +1,31 @@
+.board_rows{
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+max-height: fit-content;
+
+}
+
+.Board_Container{
+  margin: 30px;
+ font-size: xx-large;
+  
+}
+.heading{
+  display: flex;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  justify-content: center;
+}
+.winstatement{
+  display: flex;
+  justify-content: center;
+
+  
+}
+.button {
+
+  margin-left: 50%;
+ 
+}
+
