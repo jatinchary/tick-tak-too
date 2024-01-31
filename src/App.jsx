@@ -8,9 +8,10 @@ function App() {
 
   return (
     <>
+    <div className='bg'>
     <h1 className='heading'>TIC-TAK-TOO</h1>
     <Boardcontainer/>
-   
+    </div>
     </>
   )
 }

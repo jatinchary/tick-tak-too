@@ -10,6 +10,7 @@ max-height: fit-content;
 .Board_Container{
   margin: 30px;
  font-size: xx-large;
+ max-height: max-content;
   
 }
 .heading{
@@ -27,5 +28,9 @@ max-height: fit-content;
 
   margin-left: 50%;
  
+}
+.bg{
+  background-color: aqua;
+  max-height: 100%;
 }
 
